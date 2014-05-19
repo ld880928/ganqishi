@@ -1,4 +1,0 @@
-platform :ios, '7.0'
-pod 'XMPPFramework', '~> 3.6.4'
-pod 'FMDB', '~> 2.2'
-pod 'AFNetworking', '~> 2.2.3'
